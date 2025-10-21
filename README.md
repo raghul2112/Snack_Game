@@ -26,3 +26,8 @@ A simple and fun Snake Game built using Python's Turtle Graphics and Object-Orie
 ## 📸 Screen shot
 
 ![alt text](img.png)
+## 🚀 How to Run
+1. Clone the repository:
+   ```bash
+   git clone https://raghul2112.github.io/Snack_Game/
+
